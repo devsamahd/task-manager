@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: ;
+}
+.container{
+    width: 95%;
+    border: 1px solid slateblue;
+    padding: 20px;
+    margin: 30px;
+    min-height: 200px;
+}
+img{
+    height: 200px;
+}
+.btn{
+    padding: 10px;
+    float: right;
+    background-color: slateblue;
+    border: 0px;
+    border-radius: 5px;
+    width: 60px;
+}
+.header{
+    float: left;
+}
+.task{
+    margin-top: 50px;
+}
